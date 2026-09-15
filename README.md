@@ -19,7 +19,7 @@ HTML • CSS • JavaScript • Local Storage
 
 ## ▶️ Run
 
-Open `index.html` in a browser or use VS Code Live Server.
+Open `CRICKET_SCORER.html` in a browser or use VS Code Live Server.
 
 ## 👨‍💻 Author
 
